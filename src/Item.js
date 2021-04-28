@@ -21,7 +21,7 @@ class Item extends React.Component {
       </td>
 
       <td>
-        <Button variant="danger" onClick={this.props.removeClick}>remove</Button>
+        <Button variant="danger" onClick={this.props.removeClick}>Remove</Button>
       </td>
 
     </tr>
