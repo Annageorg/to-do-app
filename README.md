@@ -1,6 +1,7 @@
 # To-Do App 
 
 App created using React and state management with Redux
+App can be found [here](https://annageorg.github.io/to-do-app/)
 
 ### Functionality of the App includes:
 1. Ability to add items to your to-do list
